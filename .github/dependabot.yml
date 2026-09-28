@@ -41,7 +41,7 @@ updates:
           - "lucide-react"
       cloudflare:
         patterns:
-          - "wrangler"
+          - "cf"
           - "@cloudflare/*"
       tooling:
         patterns:
